@@ -64,18 +64,6 @@
                     </li>
 
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
-                    <li class="block">
-                        <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
-                        </a>
-                    </li>
-                    <li class="md:-mt-7 pl-1">
-                        <a href="https://laradir.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/laradir.svg" class="w-auto h-6" />
-                        </a>
-                    </li>
-
-                    <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="md:-mt-7">
                         <a href="https://localazy.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-4" />
@@ -84,6 +72,12 @@
                     <li class="md:-mt-7 pl-1 mb-8">
                         <a href="https://zapiet.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/zapiet.svg" class="w-auto h-5" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
+                        <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
                         </a>
                     </li>
                 </ul>
