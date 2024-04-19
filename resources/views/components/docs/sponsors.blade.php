@@ -35,6 +35,11 @@
                         </a>
                     </li>
                     <li class="block">
+                        <a href="https://brokerchooser.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/brokerchooser.svg" class="w-auto h-8" />
+                        </a>
+                    </li>
+                    <li class="block">
                         <a href="https://forge.laravel.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/forge.svg" class="w-auto h-6" />
                         </a>
