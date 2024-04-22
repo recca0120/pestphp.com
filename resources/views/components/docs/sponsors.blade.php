@@ -81,6 +81,12 @@
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
+                        <a href="https://www.docuwriter.ai/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/docuwriter-ai.svg" class="w-auto h-8" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
                         <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
                         </a>
