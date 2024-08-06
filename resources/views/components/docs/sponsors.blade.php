@@ -58,23 +58,24 @@
                 <ul class="pb-8 border-b border-gray-200 dark:border-gray-800 drop-shadow md:gap-3 lg:px-0 flex flex-wrap items-center justify-center gap-3 px-6 mt-6">
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
-                        <a href="https://akaunting.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/akaunting.svg" class="w-auto h-5" />
+                        <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
                         </a>
                     </li>
-                    <li class="md:-mt-7 pl-1">
-                        <a href="https://codecourse.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/codecourse.svg" class="w-auto h-4" />
-                        </a>
-                    </li>
-
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
-                    <li class="md:-mt-7">
+                    <li class="block">
                         <a href="https://localazy.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-4" />
                         </a>
                     </li>
-                    <li class="md:-mt-7 pl-1 mb-8">
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
+                        <a href="https://route4me.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/route4me.svg" class="w-auto h-5" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
                         <a href="https://zapiet.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/zapiet.svg" class="w-auto h-5" />
                         </a>
@@ -87,8 +88,26 @@
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
-                        <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
+                        <a href="https://zapiet.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/zapiet.svg" class="w-auto h-5" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
+                        <a href="https://akaunting.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/akaunting.svg" class="w-auto h-5" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
+                        <a href="https://localazy.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-4" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                    <li class="block">
+                        <a href="https://codecourse.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/codecourse.svg" class="w-auto h-4" />
                         </a>
                     </li>
                 </ul>
