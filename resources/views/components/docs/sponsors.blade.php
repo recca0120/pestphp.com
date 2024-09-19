@@ -88,12 +88,6 @@
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
-                        <a href="https://zapiet.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/zapiet.svg" class="w-auto h-5" />
-                        </a>
-                    </li>
-                    <li class="md:block hidden w-full h-0 -mt-12"></li>
-                    <li class="block">
                         <a href="https://akaunting.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/akaunting.svg" class="w-auto h-5" />
                         </a>
