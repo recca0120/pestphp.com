@@ -24,8 +24,8 @@
 
     @if (str_ends_with(url()->current(), 'announcing-stressless'))
         <meta property="og:image" content="https://pestphp.com/assets/img/stressless-announcement.jpg">
-    @elseif (str_ends_with(url()->current(), 'pest3-now-available'))
-        <meta property="og:image" content="https://pestphp.com/assets/img/pest3-now-available.jpg">
+    @else
+        <meta property="og:image" content="https://pestphp.com/assets/img/og.jpg">
     @endif
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
