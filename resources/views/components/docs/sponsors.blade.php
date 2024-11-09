@@ -24,48 +24,56 @@
             ">
                 <ul>
                     <li class="text-center pb-6">
-                        <h2>Graceful Sponsors</h2>
+                        <h2>Partners</h2>
                     </li>
                 </ul>
 
                 <ul class="pb-8 border-b border-gray-200 dark:border-gray-800 lg:gap-12 drop-shadow lg:px-0 flex flex-wrap items-center justify-center gap-3 px-6 mt-6">
                     <li class="block">
+                        <a href="https://coderabbit.ai/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/coderabbit.svg" class="w-auto h-12" />
+                        </a>
+                    </li>
+
+                    <li class="block">
                         <a href="https://larajobs.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/larajobs.svg" class="w-auto h-12" />
                         </a>
                     </li>
+
                     <li class="block">
                         <a href="https://brokerchooser.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/brokerchooser.svg" class="w-auto h-8" />
                         </a>
                     </li>
+
                     <li class="block">
                         <a href="https://forge.laravel.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
                             <img src="/www/assets/sponsors/forge.svg" class="w-auto h-6" />
                         </a>
                     </li>
-                    <li class="block">
-                        <a href="https://spatie.be/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/spatie.svg" class="w-auto h-16" />
-                        </a>
-                    </li>
-                    <li class="block">
-                        <a href="https://www.worksome.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/worksome.svg" class="w-auto h-6" />
-                        </a>
-                    </li>
                 </ul>
                 <ul class="pb-8 border-b border-gray-200 dark:border-gray-800 drop-shadow md:gap-3 lg:px-0 flex flex-wrap items-center justify-center gap-3 px-6 mt-6">
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
+                        <a href="https://spatie.be/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/spatie.svg" class="w-auto h-10" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
+                        <a href="https://www.worksome.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
+                            <img src="/www/assets/sponsors/worksome.svg" class="w-auto h-5" />
+                        </a>
+                    </li>
+                    <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
                         <a href="https://laracasts.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-3" />
+                            <img src="/www/assets/sponsors/laracasts.svg" class="w-auto h-4" />
                         </a>
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
                         <a href="https://localazy.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-4" />
+                            <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-5" />
                         </a>
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
@@ -94,14 +102,8 @@
                     </li>
                     <li class="md:block hidden w-full h-0 -mt-12"></li>
                     <li class="block">
-                        <a href="https://localazy.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/localazy.svg" class="w-auto h-4" />
-                        </a>
-                    </li>
-                    <li class="md:block hidden w-full h-0 -mt-12"></li>
-                    <li class="block">
                         <a href="https://codecourse.com/?ref=pestphp" target="_blank" rel="noopener" class="table">
-                            <img src="/www/assets/sponsors/codecourse.svg" class="w-auto h-4" />
+                            <img src="/www/assets/sponsors/codecourse.svg" class="w-auto h-5" />
                         </a>
                     </li>
                 </ul>
