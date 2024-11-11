@@ -1,4 +1,4 @@
-## Pest Website
+## Pest Site
 
 This is the source of the official [Pest website](https://pestphp.com).
 
