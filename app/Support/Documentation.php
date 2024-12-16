@@ -61,7 +61,7 @@ class Documentation
                 ];
             }
 
-            return null;
+            return ['html' => ''];;
         });
     }
 }
