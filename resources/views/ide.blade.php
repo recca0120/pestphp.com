@@ -40,6 +40,14 @@
 
                     <div class="space-y-6 mt-6">
                         <x-vs-code-ide-plugin
+                            title="VSCode PHPUnit TestExplorer"
+                            extension="recca0120.vscode-phpunit"
+                            logo="https://raw.githubusercontent.com/recca0120/vscode-phpunit/main/img/icon.png"
+                            url="https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit"
+                            github="https://github.com/recca0120/vscode-phpunit">
+                        </x-vs-code-ide-plugin>
+                        
+                        <x-vs-code-ide-plugin
                             title="VSCode"
                             extension="m1guelpf.better-pest"
                             logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
